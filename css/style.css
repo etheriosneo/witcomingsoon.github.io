@@ -300,7 +300,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-one {
-  background-image: url("../images/bg-one.jpg");
+  background-image: url("../images/lg-bg.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
