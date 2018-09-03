@@ -719,6 +719,22 @@ a:hover, a:focus, a:active {
 
 
 
+/* Contact Block */
+.dark-bg .contact-info-block p {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.light-bg .contact-info-block p {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.contact-info-block p {
+  font-size: small;
+  margin-bottom: 0 !important;
+}
+
+
+
 /* Slick Slider */
 .slick-slide .img-holder {
   background-repeat: no-repeat;
