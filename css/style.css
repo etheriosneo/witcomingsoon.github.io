@@ -81,6 +81,11 @@ a:hover, a:focus, a:active {
   font-weight: 500;
 }
 
+.my-sm {
+  margin-top: 1.5em !important;
+  margin-bottom: 1.5em !important;
+}
+
 .my-md {
   margin-top: 2.5em !important;
   margin-bottom: 2.5em !important;
@@ -737,6 +742,10 @@ a:hover, a:focus, a:active {
   margin-bottom: 0 !important;
 }
 
+.contact-type {
+  font-size: larger;
+  font-weight: bold;
+}
 
 
 /* Slick Slider */
