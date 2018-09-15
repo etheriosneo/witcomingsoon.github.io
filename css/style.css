@@ -81,6 +81,11 @@ a:hover, a:focus, a:active {
   font-weight: 500;
 }
 
+.my-sm {
+  margin-top: 1.5em !important;
+  margin-bottom: 1.5em !important;
+}
+
 .my-md {
   margin-top: 2.5em !important;
   margin-bottom: 2.5em !important;
@@ -603,9 +608,8 @@ a:hover, a:focus, a:active {
 
 /* FULLSCREEN BACKGROUND */
 .fullscreen-content.dark-bg {
-  background: #333;
   color: #fff;
-  background: url(../images/bg2.jpg);
+  background: url(../images/black-gradient-background.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -737,6 +741,10 @@ a:hover, a:focus, a:active {
   margin-bottom: 0 !important;
 }
 
+.contact-type {
+  font-size: larger;
+  font-weight: bold;
+}
 
 
 /* Slick Slider */

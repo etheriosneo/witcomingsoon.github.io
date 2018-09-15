@@ -1,24 +1,14 @@
 {
-    "members": [
-        {
-            "name": "Sagar Bharadwaj ",
-            "title": "WiT Coordinator",
-            "email": "sagarbharadwaj50@gmail.com"
-        },
-        {
-            "name": "Samarth B",
-            "title": "IEEE NITK Chairman",
-            "email": "chairman.nitkieee@gmail.com"
-        },
-        {
-            "name": "Rosa Anil George",
-            "title": "WiT Coordinator",
-            "email": "rosageorge97@gmail.com"
-        },
+    "mentors": [
         {
             "name": "Annappa B",
             "title": "Chair - IEEE Computer Society Chapter, India Council",
             "email": "annappa@ieee.org"
+        },
+        {
+            "name": "M. S. Bhat",
+            "title": "Branch Counsellor NITK IEEE",
+            "email": "msbhat@ieee.com"
         },
         {
             "name": "Ms. Ashwini  Holla",
@@ -36,14 +26,73 @@
             "email": "dr.kalpana.nitk@gmail.com"
         },
         {
+            "name": "Shivam Abhilash",
+            "title": "India Council Computer Society Volunteer",
+            "email": "shivam.1996.in@ieee.org"
+        }
+    ],
+    "coordinators": [
+        {
             "name": "Sailakshmi P V",
-            "title": "India Council Computer Society volunteers",
+            "title": "WiT Coordinator",
             "email": "sailakshmi.pv.in@ieee.org"
         },
         {
-            "name": "Shivam Abhilash",
-            "title": "India Council Computer Society volunteers",
-            "email": "shivam.1996.in@ieee.org"
+            "name": "Sagar Bharadwaj",
+            "title": "WiT Coordinator",
+            "email": "sagarbharadwaj50@gmail.com"
+        },
+        {
+            "name": "Rosa Anil George",
+            "title": "WiT Joint-Coordinator",
+            "email": "rosageorge97@gmail.com"
+        }
+    ],
+    "teams": [
+        {
+            "name": "Neeraj Ipe",
+            "title": "Website Team Lead",
+            "email": "neerajipe@ieee.org"
+        },
+        {
+            "name": "Anumeha Agrawal",
+            "title": "Website Team Lead",
+            "email": "anumehaagrawal29@gmail.com"
+        },
+        {
+            "name": "Samarth B",
+            "title": "Chairman NITK IEEE",
+            "email": "chairman.nitkieee@gmail.com"
+        },
+        {
+            "name": "Archit Pandey",
+            "title": "Sponsorship Team Lead",
+            "email": "architpandeynitk@gmail.com"
+        },
+        {
+            "name": "Afnan Nazer",
+            "title": "Design Team Lead",
+            "email": "afnan@ieee.org"
+        },
+        {
+            "name": "Ganesh Sekhar",
+            "title": "Design Team Lead",
+            "email": "ganeshsekhar@ieee.org"
+        },
+        {
+            "name": "Daphne Jenson",
+            "title": "Content Team Lead",
+            "email": "jenson.daphne@gmail.com"
+        },
+        {
+            "name": "Jeshventh Raja T K",
+            "title": "Finance Team Lead",
+            "email": "jeshventhtk@gmail.com"
+        },
+        {
+            "name": "Anupama Gannavarapu",
+            "title": "Finance Team Lead",
+            "email": "vicechair.nitkieee@gmail.com"
         }
     ]
 }
