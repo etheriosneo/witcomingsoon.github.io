@@ -603,9 +603,8 @@ a:hover, a:focus, a:active {
 
 /* FULLSCREEN BACKGROUND */
 .fullscreen-content.dark-bg {
-  background: #333;
   color: #fff;
-  background: url(../images/bg2.jpg);
+  background: url(../images/black-gradient-background.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
